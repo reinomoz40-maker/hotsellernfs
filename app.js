@@ -9,9 +9,9 @@
 // QUALQUER OUTRO SCRIPT QUE TENTE ALTERAR É IGNORADO
 
 const CONFIG = {
-  telegram : "BADBOYXS_022",
-  zangi    : "6970835383",
-  zangiUrl : "https://services.zangi.com/dl/conversation/6970835383",
+  telegram : "seiier_xx",
+  zangi    : "7378429233",
+  zangiUrl : "https://services.zangi.com/dl/conversation/7378429233",
 };
 
 // BLOQUEIA ALTERAÇÕES EXTERNAS
